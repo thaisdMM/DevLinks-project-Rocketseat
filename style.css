@@ -14,8 +14,10 @@ body {
   margin: auto;
 }
 
+#profile {
+  text-align: center;
+}
+
 #profile img {
-  display: block;
   width: 112px;
-  margin: auto;
 }
