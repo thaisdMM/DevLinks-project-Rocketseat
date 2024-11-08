@@ -9,8 +9,9 @@
   --bg-url: url(./assets/bg-mobile.jpg);
   --stroke-color: rgba(255, 255, 255, 0.5);
   --surface-color: rgba(255, 255, 255, 0.05);
-  --surface-color-hover:rgba(0, 0, 0, 0.02);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
   --hightlight-color: rgba(255, 255, 255, 0.2);
+  --switch-bg-ulr: url(./assets/moon-stars.svg);
 }
 
 .light {
@@ -18,8 +19,9 @@
   --bg-url: url(./assets/bg-mobile-light.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
-  --surface-color-hover:rgba(0, 0, 0, 0.02);
+  --surface-color-hover: rgba(0, 0, 0, 0.02);
   --hightlight-color: rgba(0, 0, 0, 0.1);
+  --switch-bg-ulr: url(./assets/sun.svg);
 }
 
 body {
@@ -36,7 +38,7 @@ body * {
   margin: 56px auto 0px;
   padding: 0 24px;
 }
-
+/* profile */
 #profile {
   text-align: center;
   padding: 24px;
@@ -50,6 +52,17 @@ body * {
 #profile p {
   font-weight: 500;
   line-height: 24px;
+}
+
+/*switch*/
+
+#switch button {
+  width: 32px;
+  height: 32px;
+  background: white var(--switch-bg-ulr) no-repeat center;
+  border: 0;
+  border-radius: 50%;
+  background-image: ;
 }
 
 /* links */
