@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://thaisdmm.github.io/Thais-Moreira-Profile-project-DevLinks/)
+- [Acesse o projeto finalizado, online](https://thaisdmm.github.io/DevLinks-project-Rocketseat/#)
 
 - [Assistir aulas](https://app.rocketseat.com.br/journey/discover/contents)
 
